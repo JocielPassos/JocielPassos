@@ -16,6 +16,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jocielpassos&theme=dark&locale=pt_BR&date_format=%5BY%20%5DM%20j" alt="jocielpassos" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jocielpassos&show_icons=true&locale=en&theme=dark=compact" alt="jocielpassos" /></p><br>
 
 
