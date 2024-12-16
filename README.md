@@ -1,5 +1,5 @@
 
-<img src="https://media.tenor.com/Swr_VRFiVvYAAAAd/tanks-cartoon.gif" alt="gif de tanques" />
+<img src="" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jocielpassos&label=Profile%20views&color=0e75b6&style=flat" alt="jocielpassos" /> </p>
 
