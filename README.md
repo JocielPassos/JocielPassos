@@ -14,7 +14,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jocielpassos&show_icons=true&locale=en&theme=dark" alt="jocielpassos" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jocielpassos&theme=dark&locale=pt_BR&date_format=%5BY%20%5DM%20j" alt="jocielpassos" /></p>
+
 
 
 
